@@ -37,7 +37,7 @@ export default function Home() {
 			<div className="flex justify-center items-center gap-2 w-3/4 xs:w-full xs:flex-col">
 				<input
 					type="number"
-					className="w-72 h-10 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-gray-900 focus:border-gray-900 block p-2.5 dark:bg-gray-900 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 focus:outline-none"
+					className="w-72 h-10 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-gray-900 focus:border-purple-500 block p-2.5 dark:bg-gray-900 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-purple-500 focus:outline-none"
 					placeholder="Digite um número a partir de 1"
 					onChange={handleChangeInput}
 				/>
